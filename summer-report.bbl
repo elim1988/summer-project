@@ -1,0 +1,35 @@
+\begin{thebibliography}{1}
+
+\bibitem{tom68}
+R.~F. Tomlinson, ``A geographic information system for regional planning,'' in
+  {\em GA Stewart,(ed.: Symposium on Land Evaluation, Commonwealth Scientific
+  and Industrial Research Organization, MacMillan of Australia., Melbourne}.
+
+\bibitem{esri}
+I.~Environmental Systems Research~Institute, {\em ESRI shapefile technical
+  description}, 1998.
+
+\bibitem{maptools}
+R.~Bivand and N.~Lewin-Koh, {\em maptools: Tools for reading and handling
+  spatial objects}, 2014.
+\newblock R package version 0.8-30.
+
+\bibitem{rworldmap}
+A.~South, ``rworldmap: A new r package for mapping global data,'' {\em The R
+  Journal}, vol.~3, pp.~35--43, June 2011.
+
+\bibitem{dismo}
+R.~J. Hijmans, S.~Phillips, J.~Leathwick, and J.~Elith, {\em dismo: Species
+  distribution modeling}, 2014.
+\newblock R package version 1.0-5.
+
+\bibitem{ggmap}
+D.~Kahle and H.~Wickham, {\em ggmap: A package for spatial visualization with
+  Google Maps and OpenStreetMap}, 2013.
+\newblock R package version 2.3.
+
+\bibitem{ggplot2}
+H.~Wickham, {\em ggplot2: elegant graphics for data analysis}.
+\newblock Springer New York, 2009.
+
+\end{thebibliography}
